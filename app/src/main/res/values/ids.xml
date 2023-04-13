@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_view" type="id" />
+    <item name="text_view" type="id" />
+    <item name="magnitude_text_view" type="id" />
+    <item name="location_offset_text_view" type="id" />
+    <item name="primary_location_text_view" type="id" />
+    <item name="date_text_view" type="id" />
+    <item name="time_text_view" type="id" />
+    <item name="details_view" type="id" />
+    <item name="title_text_view" type="id" />
+    <item name="dateTextView" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="earthquakeRecyclerView" type="id" />
+    <item name="editText" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="button" type="id" />
+    <item name="link_textView" type="id" />
+    <item name="locationEditText" type="id" />
+</resources>

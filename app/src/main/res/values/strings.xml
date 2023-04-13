@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Olomada_Umma-Hani_s2034965</string>
+    <string name="near_the" />
+    <string name="menu_refresh" />
+    <string name="menu_settings" />
+    <string name="date_label" />
+    <string name="date_hint" />
+    <string name="location_label" />
+    <string name="location_hint" />
+    <string name="search_button" />
+    <string name="search_text" />
+    <string name="subtitle_text" />
+    <string name="title_text" />
+</resources>
